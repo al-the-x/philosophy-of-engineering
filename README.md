@@ -1,4 +1,6 @@
-# A Philosophy of Engineering: _How I learned to (over)analyze everything..._
+# A Philosophy of Engineering
+
+## How I learned to (over)analyze everything...
 
 An exploration of the philosophy behind engineering and analytical science from someone with a little formal training, a good bit of experience, and a penchant for picking apart everything.
 
